@@ -1,4 +1,4 @@
- AI for Diabetes Risk Prediction (SDG 3)
+AI for Diabetes Risk Prediction (SDG 3)
 Project Overview
 This project demonstrates the application of a supervised machine learning model to predict the risk of diabetes based on diagnostic measurements. Aligned with UN Sustainable Development Goal 3: Good Health and Well-being, the solution aims to facilitate early detection and proactive management of diabetes, thereby contributing to improved health outcomes and a more sustainable healthcare system.
 
